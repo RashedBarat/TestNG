@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name = "DataProvider Testing Suite">
+    <test name = "DataProvider">
+        <classes>
+            <class name = "Eggsearch" />
+        </classes>
+
+    </test>
+
+</suite>
